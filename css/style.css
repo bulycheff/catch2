@@ -45,7 +45,7 @@ h3 {
   .page a.logo {
     margin: 8% auto 20px;
     padding-top: 70px;
-    background: transparent url('../img/logo.png') center top no-repeat;
+    background: transparent center top no-repeat;
     display: block;
   }
     .page a.logo img {
@@ -78,7 +78,7 @@ h3 {
 	width: 572px;
   height: 350px;
   margin: 0 auto;
-  background: transparent url('../img/game-bg.jpg') center center no-repeat;
+  background: transparent url('../img/game-bg.png') center center no-repeat;
   position: relative;
 }
 
@@ -132,14 +132,14 @@ h3 {
       height: 152px;
       top: 164px;
       left: 179px;
-      background: transparent url('../img/wolf/wolf-p-0.png') center center no-repeat;
+      background: transparent url('../img/catcher/wolf-p-0.png') center center no-repeat;
     }
     #game-wrap[data-bx="1"] .wolf {
       width: 90px;
       height: 146px;
       top: 166px;
       right: 186px;
-      background: transparent url('../img/wolf/wolf-p-1.png') center center no-repeat;
+      background: transparent url('../img/catcher/wolf-p-1.png') center center no-repeat;
     }
 
   /*
